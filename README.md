@@ -77,3 +77,11 @@ It motivates me to keep learning and improving.
 ---
 
   Happy Coding! 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rachnatelang131-tech/Data-Structure-Algorithm/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+<!---LeetCode Topics End-->
