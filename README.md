@@ -1,87 +1,49 @@
-# 🚀 Data Structures & Algorithms in Java
+<div align="center">
 
+# 🧠 Coding Solutions
 
-       Learning • Solving • Improving ---
+![Total Solved](https://img.shields.io/badge/Total_Solved-1-blue?style=for-the-badge)
+![Streak](https://img.shields.io/badge/Streak-1_days-orange?style=for-the-badge)
+![Last Synced](https://img.shields.io/badge/Last_Synced-8--12--2026-green?style=for-the-badge)
 
-## 📌 About
+> 🚀 Auto-synced by [**PushMyCode**](https://github.com/PushMyCode-HQ) — solve it, forget it, it's on GitHub.
 
-This repository contains my solutions to **Data Structures and Algorithms (DSA)** problems implemented in **Java**.
-
-The goal of this repository is to:
-- Strengthen problem-solving skills
-- Improve coding logic
-- Practice core DSA concepts
-- Build consistency through regular problem solving
+</div>
 
 ---
 
-## 📂 Topics Covered
+## 📊 Stats
 
-- ✅ Arrays
-- ✅ Strings
-- ✅ Searching
-- ✅ Sorting
-- ✅ Recursion
-- ✅ Linked List
-- ✅ Stack
-- ✅ Queue
-- ✅ Hashing
-- ✅ Trees
-- ✅ Binary Search Tree
-- ✅ Heap
-- ✅ Graph
-- ✅ Dynamic Programming
-- ✅ Greedy Algorithms
-- ✅ Backtracking
-- ✅ Bit Manipulation
+| Difficulty | Solved |
+|:---:|:---:|
+| 🟢 Easy | **0** |
+| 🟡 Medium | **1** |
+| 🔴 Hard | **0** |
+| **Total** | **1** |
 
----
+## 🛠️ Languages
 
-## 📁 Repository Structure
+| Language | Solutions |
+|:---:|:---:|
+| Java | **1** |
+
+## 📂 Repository Structure
 
 ```
-## 📁 Repository Structure
-
-```
-DSA-Java
-│
-├── 📂 Assignments
-├── 📂 LeetCode
-├── 📂 Notes
-└── 📄 README.md
+📦 coding-solutions/
+├── leetcode/
+│   ├── easy/
+│   ├── medium/
+│   └── hard/
+├── hackerrank/
+├── codechef/
+└── gfg/
 ```
 
 ---
 
-## 💻 Language
+<div align="center">
 
-- Java ☕
+*Last updated: 2026-08-12* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
----
-
-## 🎯 Repository Goals
-
-- Solve problems regularly
-- Write clean and readable code
-- Learn optimized approaches
-- Track progress over time
-
----
-
-## ⭐ If you find this repository useful
-
-Consider giving it a ⭐.
-
-It motivates me to keep learning and improving.
-
----
-
-  Happy Coding! 🚀
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rachnatelang131-tech/Data-Structure-Algorithm/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
-<!---LeetCode Topics End-->
+</div>
