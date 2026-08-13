@@ -53,35 +53,32 @@ Print `Weird` if the number is weird; otherwise, print `Not Weird`.
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-13T16:32:58.159Z  
+**Submitted:** 2026-08-13T16:42:43.116Z  
 
 ```java
-import java.util.*;
+import java.util.Scanner;
 
 public class Solution {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-
         int n = sc.nextInt();
-
+        
         if (n % 2 != 0) {
             System.out.println("Weird");
-        } 
-        else if (n >= 2 && n <= 5) {
+        }
+        else if ( n >= 2 && n <= 5 ) {
             System.out.println("Not Weird");
-        } 
-        else if (n >= 6 && n <= 20) {
+        }
+         else if ( n >= 6 && n <= 20 ) {
             System.out.println("Weird");
-        } 
+        }
         else {
             System.out.println("Not Weird");
         }
-        
-        sc.close();
-
-    
     }
 }
+
+
 
 
 
