@@ -21,13 +21,35 @@ The second column contains the *integer*, expressed in exactly $3$ digits; if th
 
 ## Solution
 
-**Language:** en-us  
+**Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-15T18:14:15.941Z  
+**Submitted:** 2026-08-15T15:57:18.069Z  
 
-```en-us
-direct
+```java
+import java.util.Scanner;
+
+public class Solution {
+
+    public static void main(String[] args) {
+            Scanner sc = new Scanner(System.in);
+            System.out.println("================================");
+            for(int i=0;i<3;i++){
+                String s1 = sc.next();
+                int x = sc.nextInt();
+                
+                 System.out.printf("%-15s%03d%n", s1, x);
+                
+            }
+            System.out.println("================================");
+
+    }
+    
+}
+
+
+
+
 ```
 
 ---
