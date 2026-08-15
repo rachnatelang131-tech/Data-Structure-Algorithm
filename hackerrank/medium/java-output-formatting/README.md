@@ -1,4 +1,4 @@
-# Java Stdin and Stdout II
+# Java Output Formatting
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow)
 
@@ -21,31 +21,13 @@ The second column contains the *integer*, expressed in exactly $3$ digits; if th
 
 ## Solution
 
-**Language:** Java  
+**Language:** en-us  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-13T16:58:24.547Z  
+**Submitted:** 2026-08-15T18:14:15.941Z  
 
-```java
-import java.util.Scanner;
-
-public class Solution {
-
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-         int i = sc.nextInt();
-         double d = sc.nextDouble();
-         
-         sc.nextLine(); // consume the leftover newline
-         String s = sc.nextLine();
-       
-        
-        System.out.println("String: " + s);
-        System.out.println("Double: " + d);
-        System.out.println("Int: " + i);
-    }
-}
-
+```en-us
+direct
 ```
 
 ---
